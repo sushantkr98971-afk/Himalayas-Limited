@@ -43,11 +43,3 @@ From the above Charts and KPIs itr helps a lot to find Discount pattern.
 # Conclusion 
 If everything implimented perfectly then the problem they facing is solved and also they can increase there sales also with constantly increase in profit also.They have to work or some state also becuase if they don't it cause them for decrease in sales.
 
-### Insight: Root Cause – Over Discounting
-
-![Discounting Issue](screenshots/discounting_issue.png)
-
-- Sales increasing but profit not improving  
-- Heavy discounting reduces margins  
-
-**Actionable Insight:** Shift from volume-driven to profit-driven strategy
