@@ -47,8 +47,8 @@ If everything implimented perfectly then the problem they facing is solved and a
 
 ![Absolute Profitability](screenshots/absolute_profitability.png)
 
-- Identified overall profit contribution across categories
-- Some categories generate high sales but low actual profit
-- Indicates inefficiency in pricing or discount strategy
+- Identified overall profit contribution across categories  
+- Some categories generate high sales but low profit  
+- Indicates pricing or discount inefficiency  
 
-**Actionable Insight:** Focus on optimizing high-revenue but low-profit categories
+**Actionable Insight:** Focus on high-revenue but low-profit categories
