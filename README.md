@@ -9,9 +9,9 @@ There sales are incresing but the profit of Himalayas Limited is constantly decr
 4 Find profitability ratio for each Category and sub-category.
 
 # Tools Used
-1 MS Excel
-2 MySQL
-3 Power BI
+1 MS Excel\
+2 MySQL\
+3 Power BI\
 
 # Dataset
 I made this dataset from chat gpt to increase its hardness level. After cleaning the data we have these columns (Row ID,	Order Date,	Country,	City,	State,	Category,	Sub-Category,	Sales,	Quantity,	Discount,	Profit).
@@ -28,17 +28,17 @@ Some of the Product have high profit margin then it cost them to bear the low sa
 From the above Charts and KPIs itr helps a lot to find Discount pattern.
 
 # Key Insights 
-1 Decrease in Discounts in some product which have greater than 20% discount(>20%).eg: Binders, Tables, Machines etc
-2 Fasteners in sub-category is very low performance so they have to discountinue it or increase in discount for Fasteners.
-3 Furniture is a category which has very low performance overall so they should work on that or increase in type of sub-category in furniture.
-4 Certain states provide very low performance in every category or sub-category, so they can improve there distibution, marketing, stock management.(eg states:- colorado, illinois, florida, ohio, etc).
+1 Decrease in Discounts in some product which have greater than 20% discount(>20%).(eg: Binders, Tables, Machines etc)\
+2 Fasteners in sub-category is very low performance so they have to discountinue it or increase in discount for Fasteners.\
+3 Furniture is a category which has very low performance overall so they should work on that or increase in type of sub-category in furniture.\
+4 Certain states provide very low performance in every category or sub-category, so they can improve there distibution, marketing, stock management.(eg states:- colorado, illinois, florida, ohio, etc).\
 5 Instead of direct discounts they can provide coupons code. Coupan code help them for making limit or quantity in each orders.
 
 # Recommendations
-1 Reduce Discounts.
-2 Focus on Profitable Category or Sub-category.
-3 Work on disributions.
-4 Impliment Coupons codes.
+1 Reduce Discounts.\
+2 Focus on Profitable Category or Sub-category.\
+3 Work on disributions.\
+4 Impliment Coupons codes.\
 
 # Conclusion 
 If everything implimented perfectly then the problem they facing is solved and also they can increase there sales also with constantly increase in profit also.They have to work or some state also becuase if they don't it cause them for decrease in sales.
