@@ -3,9 +3,9 @@ This project is about Himalayas Limited and they facing constantly decrease in p
 There sales are incresing but the profit of Himalayas Limited is constantly decreasing. This project identifies the reasons for there constant decrease in profits.
 
 # Objectives
-1 What are the key reasons for despites in profits.
-2 Identify identify loss making Products.
-3 Find highly discounted products.
+1 What are the key reasons for despites in profits.\
+2 Identify identify loss making Products.\
+3 Find highly discounted products.\
 4 Find profitability ratio for each Category and sub-category.
 
 # Tools Used
