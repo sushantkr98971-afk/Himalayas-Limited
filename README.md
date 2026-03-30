@@ -11,7 +11,7 @@ There sales are incresing but the profit of Himalayas Limited is constantly decr
 # Tools Used
 1 MS Excel\
 2 MySQL\
-3 Power BI\
+3 Power BI
 
 # Dataset
 I made this dataset from chat gpt to increase its hardness level. After cleaning the data we have these columns (Row ID,	Order Date,	Country,	City,	State,	Category,	Sub-Category,	Sales,	Quantity,	Discount,	Profit).
@@ -38,7 +38,7 @@ From the above Charts and KPIs itr helps a lot to find Discount pattern.
 1 Reduce Discounts.\
 2 Focus on Profitable Category or Sub-category.\
 3 Work on disributions.\
-4 Impliment Coupons codes.\
+4 Impliment Coupons codes.
 
 # Conclusion 
 If everything implimented perfectly then the problem they facing is solved and also they can increase there sales also with constantly increase in profit also.They have to work or some state also becuase if they don't it cause them for decrease in sales.
