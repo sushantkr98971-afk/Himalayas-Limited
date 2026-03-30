@@ -43,12 +43,11 @@ From the above Charts and KPIs itr helps a lot to find Discount pattern.
 # Conclusion 
 If everything implimented perfectly then the problem they facing is solved and also they can increase there sales also with constantly increase in profit also.They have to work or some state also becuase if they don't it cause them for decrease in sales.
 
-### Insight: Absolute Profitability Analysis
+### Insight: Root Cause – Over Discounting
 
-![Absolute Profitability](screenshots/absolute_profitability.png)
+![Discounting Issue](screenshots/discounting_issue.png)
 
-- Identified overall profit contribution across categories  
-- Some categories generate high sales but low profit  
-- Indicates pricing or discount inefficiency  
+- Sales increasing but profit not improving  
+- Heavy discounting reduces margins  
 
-**Actionable Insight:** Focus on high-revenue but low-profit categories
+**Actionable Insight:** Shift from volume-driven to profit-driven strategy
