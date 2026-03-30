@@ -42,3 +42,7 @@ From the above Charts and KPIs itr helps a lot to find Discount pattern.
 
 # Conclusion 
 If everything implimented perfectly then the problem they facing is solved and also they can increase there sales also with constantly increase in profit also.They have to work or some state also becuase if they don't it cause them for decrease in sales.
+
+## Absolute Profitability
+![Absolute Profitability](screenshot/![Uploading absolute profitability.png…]()
+)
