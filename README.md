@@ -4,7 +4,7 @@ There sales are incresing but the profit of Himalayas Limited is constantly decr
 
 # Objectives
 1 What are the key reasons for despites in profits.\
-2 Identify identify loss making Products.\
+2 Identify loss making Products.\
 3 Find highly discounted products.\
 4 Find profitability ratio for each Category and sub-category.
 
@@ -19,7 +19,7 @@ I made this dataset from chat gpt to increase its hardness level. After cleaning
 # Process
 1 Data Cleaning:- MS Excel is very suitable and easy for data cleaning, from the dataset i remove those columns which doesn't need for analysis or which have above 50% missing values. After that Sort and Filter the data(eg: Sorting Date, Remove Duplicate values).
 
-2 Exploratory Data Analysis(EDA):-  MySQL Help to uncover profit leakage, I find unusual pattern in discount some of the products have more discount  then its actual cost which leads to heavily loss and increase in sales.
+2 Exploratory Data Analysis(EDA):-  MySQL Help to uncover profit leakage, I find unusual pattern in discount some of the products which have more than 30% discounts has high amounts of loss.
 Some of the Product have high profit margin then it cost them to bear the low sales of that product, this is the main reason for some products shows low proformance in markets and increase there cost for storing that product.
 
 3 Aggregations:- It helps a lot to find the actual pattern in our overall sales process, I find transaction level behavior with a perfect format(like:- Revenue → Cost → Profit → Profit Margin) this helps to find actual performing products and absolute profitability.
@@ -30,12 +30,12 @@ From the above Charts and KPIs itr helps a lot to find Discount pattern.
 # Key Insights 
 1 Decrease in Discounts in some product which have greater than 20% discount(>20%).(eg: Binders, Tables, Machines etc)\
 2 Fasteners in sub-category is very low performance so they have to discountinue it or increase in discount for Fasteners.\
-3 Furniture is a category which has very low performance overall so they should work on that or increase in type of sub-category in furniture.\
+3 Furniture is a category shows lowest avg profit margin due to high discounting in Tables and Bookcases.\
 4 Certain states provide very low performance in every category or sub-category, so they can improve there distibution, marketing, stock management.(eg states:- colorado, illinois, florida, ohio, etc).\
 5 Instead of direct discounts they can provide coupons code. Coupan code help them for making limit or quantity in each orders.
 
 # Recommendations
-1 Reduce Discounts.\
+1 Reduce Discounts to 20%.\
 2 Focus on Profitable Category or Sub-category.\
 3 Work on disributions.\
 4 Impliment Coupons codes.
